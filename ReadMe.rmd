@@ -1,4 +1,3 @@
-
 ## Easy converter for Roper Center datasets
 
 This is a very basic R script to easily convert the datafiles available for download at the Roper Center (<https://ropercenter.cornell.edu/>). The most common file available for download is a **SPSS/PASW portable** file. If you're working with Stata or other software and do not have access to expensive file converters, I wrote a simple R script to quickly convert these SPSS .por files into a *Stata (.dta) file*, an *Excel (.xlsx) file*, or a simple *tab or comma separated file*. 
